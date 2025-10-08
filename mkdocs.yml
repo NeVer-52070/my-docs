@@ -1,4 +1,5 @@
-site_name: 我的技术文档  
+site_name: 我的技术文档
+
 theme:  
   name: material  # 使用Material主题  
 nav:  
